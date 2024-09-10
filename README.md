@@ -1,6 +1,4 @@
-
-
-1 align="center">
+<h1 align="center">
   [NOME DO PROJETO]
 </h1>
 
